@@ -1,5 +1,5 @@
 ### Hello there, I'm Fayez, commonly known as Variable! 👋
-I code and make projects for fun and post them on [My Itch.io page](https://variable-industries.itch.io/). I hope you'll join me in this journey!
+I code and make projects for fun and post them on [My Itch.io page](https://variable-industries.itch.io/). Also a contributor to [Pixelorama](https://github.com/Orama-Interactive/Pixelorama).
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Variable-ind&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
