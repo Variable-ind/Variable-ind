@@ -10,11 +10,11 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/Variable-ind/Pixelorama-Extensions/pull/3) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
-2. 💪 Opened PR [#3](https://github.com/Variable-ind/Pixelorama-Extensions/pull/3) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
-3. 🎉 Merged PR [#2](https://github.com/Variable-ind/Pixelorama-Extensions/pull/2) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
-4. 💪 Opened PR [#2](https://github.com/Variable-ind/Pixelorama-Extensions/pull/2) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
-5. 💪 Opened PR [#671](https://github.com/Orama-Interactive/Pixelorama/pull/671) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+1. 🎉 Merged PR [#4](https://github.com/Variable-ind/Pixelorama-Extensions/pull/4) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
+2. 💪 Opened PR [#4](https://github.com/Variable-ind/Pixelorama-Extensions/pull/4) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
+3. 🎉 Merged PR [#3](https://github.com/Variable-ind/Pixelorama-Extensions/pull/3) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
+4. 💪 Opened PR [#3](https://github.com/Variable-ind/Pixelorama-Extensions/pull/3) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
+5. 🎉 Merged PR [#2](https://github.com/Variable-ind/Pixelorama-Extensions/pull/2) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
 <!--END_SECTION:activity-->
 
 <!--
