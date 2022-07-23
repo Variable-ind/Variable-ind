@@ -10,11 +10,11 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#181](https://github.com/mbrlabs/Lorien/issues/181) in [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien)
-2. 💪 Opened PR [#715](https://github.com/Orama-Interactive/Pixelorama/pull/715) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-3. 🎉 Merged PR [#12](https://github.com/Variable-ind/Pixelorama-Extensions/pull/12) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
-4. 💪 Opened PR [#12](https://github.com/Variable-ind/Pixelorama-Extensions/pull/12) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
-5. 🎉 Merged PR [#11](https://github.com/Variable-ind/Pixelorama-Extensions/pull/11) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
+1. 💪 Opened PR [#720](https://github.com/Orama-Interactive/Pixelorama/pull/720) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. ❗️ Opened issue [#181](https://github.com/mbrlabs/Lorien/issues/181) in [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien)
+3. 💪 Opened PR [#715](https://github.com/Orama-Interactive/Pixelorama/pull/715) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+4. 🎉 Merged PR [#12](https://github.com/Variable-ind/Pixelorama-Extensions/pull/12) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
+5. 💪 Opened PR [#12](https://github.com/Variable-ind/Pixelorama-Extensions/pull/12) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
 <!--END_SECTION:activity-->
 
 <!--
