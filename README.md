@@ -10,8 +10,8 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#724](https://github.com/Orama-Interactive/Pixelorama/pull/724) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-2. 🗣 Commented on [#723](https://github.com/Orama-Interactive/Pixelorama/issues/723) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+1. 🗣 Commented on [#723](https://github.com/Orama-Interactive/Pixelorama/issues/723) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. 💪 Opened PR [#724](https://github.com/Orama-Interactive/Pixelorama/pull/724) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 3. 🗣 Commented on [#723](https://github.com/Orama-Interactive/Pixelorama/issues/723) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 4. 🗣 Commented on [#723](https://github.com/Orama-Interactive/Pixelorama/issues/723) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 5. 🗣 Commented on [#723](https://github.com/Orama-Interactive/Pixelorama/issues/723) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
