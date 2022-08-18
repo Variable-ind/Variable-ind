@@ -10,11 +10,11 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/IsotoxalDev/Todot/pull/11) in [IsotoxalDev/Todot](https://github.com/IsotoxalDev/Todot)
-2. 💪 Opened PR [#10](https://github.com/IsotoxalDev/Todot/pull/10) in [IsotoxalDev/Todot](https://github.com/IsotoxalDev/Todot)
-3. 🎉 Merged PR [#1](https://github.com/Variable-ind/Race-ya/pull/1) in [Variable-ind/Race-ya](https://github.com/Variable-ind/Race-ya)
-4. 💪 Opened PR [#1](https://github.com/Variable-ind/Race-ya/pull/1) in [Variable-ind/Race-ya](https://github.com/Variable-ind/Race-ya)
-5. 🎉 Merged PR [#15](https://github.com/Variable-ind/Pixelorama-Extensions/pull/15) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
+1. 💪 Opened PR [#12](https://github.com/IsotoxalDev/Todot/pull/12) in [IsotoxalDev/Todot](https://github.com/IsotoxalDev/Todot)
+2. 💪 Opened PR [#11](https://github.com/IsotoxalDev/Todot/pull/11) in [IsotoxalDev/Todot](https://github.com/IsotoxalDev/Todot)
+3. 💪 Opened PR [#10](https://github.com/IsotoxalDev/Todot/pull/10) in [IsotoxalDev/Todot](https://github.com/IsotoxalDev/Todot)
+4. 🎉 Merged PR [#1](https://github.com/Variable-ind/Race-ya/pull/1) in [Variable-ind/Race-ya](https://github.com/Variable-ind/Race-ya)
+5. 💪 Opened PR [#1](https://github.com/Variable-ind/Race-ya/pull/1) in [Variable-ind/Race-ya](https://github.com/Variable-ind/Race-ya)
 <!--END_SECTION:activity-->
 
 <!--
