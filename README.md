@@ -10,11 +10,11 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/IsotoxalDev/Todot/issues/11) in [IsotoxalDev/Todot](https://github.com/IsotoxalDev/Todot)
-2. 💪 Opened PR [#13](https://github.com/IsotoxalDev/Todot/pull/13) in [IsotoxalDev/Todot](https://github.com/IsotoxalDev/Todot)
-3. 💪 Opened PR [#12](https://github.com/IsotoxalDev/Todot/pull/12) in [IsotoxalDev/Todot](https://github.com/IsotoxalDev/Todot)
-4. 💪 Opened PR [#11](https://github.com/IsotoxalDev/Todot/pull/11) in [IsotoxalDev/Todot](https://github.com/IsotoxalDev/Todot)
-5. 💪 Opened PR [#10](https://github.com/IsotoxalDev/Todot/pull/10) in [IsotoxalDev/Todot](https://github.com/IsotoxalDev/Todot)
+1. 💪 Opened PR [#14](https://github.com/IsotoxalDev/Todot/pull/14) in [IsotoxalDev/Todot](https://github.com/IsotoxalDev/Todot)
+2. 🗣 Commented on [#11](https://github.com/IsotoxalDev/Todot/issues/11) in [IsotoxalDev/Todot](https://github.com/IsotoxalDev/Todot)
+3. 💪 Opened PR [#13](https://github.com/IsotoxalDev/Todot/pull/13) in [IsotoxalDev/Todot](https://github.com/IsotoxalDev/Todot)
+4. 💪 Opened PR [#12](https://github.com/IsotoxalDev/Todot/pull/12) in [IsotoxalDev/Todot](https://github.com/IsotoxalDev/Todot)
+5. 💪 Opened PR [#11](https://github.com/IsotoxalDev/Todot/pull/11) in [IsotoxalDev/Todot](https://github.com/IsotoxalDev/Todot)
 <!--END_SECTION:activity-->
 
 <!--
