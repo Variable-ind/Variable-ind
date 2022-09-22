@@ -10,11 +10,11 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#755](https://github.com/Orama-Interactive/Pixelorama/pull/755) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-2. 💪 Opened PR [#754](https://github.com/Orama-Interactive/Pixelorama/pull/754) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-3. 🎉 Merged PR [#2](https://github.com/Variable-ind/Race-ya/pull/2) in [Variable-ind/Race-ya](https://github.com/Variable-ind/Race-ya)
-4. 💪 Opened PR [#2](https://github.com/Variable-ind/Race-ya/pull/2) in [Variable-ind/Race-ya](https://github.com/Variable-ind/Race-ya)
-5. 🗣 Commented on [#495](https://github.com/RodZill4/material-maker/issues/495) in [RodZill4/material-maker](https://github.com/RodZill4/material-maker)
+1. 🗣 Commented on [#372](https://github.com/Orama-Interactive/Pixelorama/issues/372) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. 💪 Opened PR [#755](https://github.com/Orama-Interactive/Pixelorama/pull/755) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+3. 💪 Opened PR [#754](https://github.com/Orama-Interactive/Pixelorama/pull/754) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+4. 🎉 Merged PR [#2](https://github.com/Variable-ind/Race-ya/pull/2) in [Variable-ind/Race-ya](https://github.com/Variable-ind/Race-ya)
+5. 💪 Opened PR [#2](https://github.com/Variable-ind/Race-ya/pull/2) in [Variable-ind/Race-ya](https://github.com/Variable-ind/Race-ya)
 <!--END_SECTION:activity-->
 
 <!--
