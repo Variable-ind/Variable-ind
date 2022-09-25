@@ -13,8 +13,8 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 1. 🗣 Commented on [#16](https://github.com/Variable-ind/Pixelorama-Extensions/issues/16) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
 2. 🗣 Commented on [#16](https://github.com/Variable-ind/Pixelorama-Extensions/issues/16) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
 3. 🗣 Commented on [#16](https://github.com/Variable-ind/Pixelorama-Extensions/issues/16) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
-4. 🗣 Commented on [#372](https://github.com/Orama-Interactive/Pixelorama/issues/372) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-5. 💪 Opened PR [#755](https://github.com/Orama-Interactive/Pixelorama/pull/755) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+4. 🗣 Commented on [#16](https://github.com/Variable-ind/Pixelorama-Extensions/issues/16) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
+5. 🗣 Commented on [#372](https://github.com/Orama-Interactive/Pixelorama/issues/372) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 <!--END_SECTION:activity-->
 
 <!--
