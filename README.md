@@ -10,10 +10,10 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#17](https://github.com/Variable-ind/Pixelorama-Extensions/issues/17) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
-2. ❗️ Closed issue [#16](https://github.com/Variable-ind/Pixelorama-Extensions/issues/16) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
-3. 🗣 Commented on [#16](https://github.com/Variable-ind/Pixelorama-Extensions/issues/16) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
-4. 🗣 Commented on [#16](https://github.com/Variable-ind/Pixelorama-Extensions/issues/16) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
+1. 🗣 Commented on [#130](https://github.com/Orama-Interactive/Pixelorama/issues/130) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. 🗣 Commented on [#130](https://github.com/Orama-Interactive/Pixelorama/issues/130) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+3. ❗️ Opened issue [#17](https://github.com/Variable-ind/Pixelorama-Extensions/issues/17) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
+4. ❗️ Closed issue [#16](https://github.com/Variable-ind/Pixelorama-Extensions/issues/16) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
 5. 🗣 Commented on [#16](https://github.com/Variable-ind/Pixelorama-Extensions/issues/16) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
 <!--END_SECTION:activity-->
 
