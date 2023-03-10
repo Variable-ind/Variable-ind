@@ -10,11 +10,11 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Variable-Interactive/Pixelorama-gd4/pull/1) in [Variable-Interactive/Pixelorama-gd4](https://github.com/Variable-Interactive/Pixelorama-gd4)
-2. ❌ Closed PR [#18](https://github.com/gilzoide/godot-dockable-container/pull/18) in [gilzoide/godot-dockable-container](https://github.com/gilzoide/godot-dockable-container)
-3. 💪 Opened PR [#19](https://github.com/gilzoide/godot-dockable-container/pull/19) in [gilzoide/godot-dockable-container](https://github.com/gilzoide/godot-dockable-container)
-4. 🗣 Commented on [#18](https://github.com/gilzoide/godot-dockable-container/issues/18) in [gilzoide/godot-dockable-container](https://github.com/gilzoide/godot-dockable-container)
-5. ❗️ Opened issue [#74417](https://github.com/godotengine/godot/issues/74417) in [godotengine/godot](https://github.com/godotengine/godot)
+1. ❌ Closed PR [#1](https://github.com/Variable-Interactive/Pixelorama-gd4/pull/1) in [Variable-Interactive/Pixelorama-gd4](https://github.com/Variable-Interactive/Pixelorama-gd4)
+2. 💪 Opened PR [#1](https://github.com/Variable-Interactive/Pixelorama-gd4/pull/1) in [Variable-Interactive/Pixelorama-gd4](https://github.com/Variable-Interactive/Pixelorama-gd4)
+3. ❌ Closed PR [#18](https://github.com/gilzoide/godot-dockable-container/pull/18) in [gilzoide/godot-dockable-container](https://github.com/gilzoide/godot-dockable-container)
+4. 💪 Opened PR [#19](https://github.com/gilzoide/godot-dockable-container/pull/19) in [gilzoide/godot-dockable-container](https://github.com/gilzoide/godot-dockable-container)
+5. 🗣 Commented on [#18](https://github.com/gilzoide/godot-dockable-container/issues/18) in [gilzoide/godot-dockable-container](https://github.com/gilzoide/godot-dockable-container)
 <!--END_SECTION:activity-->
 
 <!--
