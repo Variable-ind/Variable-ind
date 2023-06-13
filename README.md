@@ -10,10 +10,10 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Variable-ind/Pixelorama-Extensions/pull/2) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
-2. 💪 Opened PR [#876](https://github.com/Orama-Interactive/Pixelorama/pull/876) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-3. 🔒 Closed issue [#78036](https://github.com/godotengine/godot/issues/78036) in [godotengine/godot](https://github.com/godotengine/godot)
-4. 🗣 Commented on [#78036](https://github.com/godotengine/godot/issues/78036) in [godotengine/godot](https://github.com/godotengine/godot)
+1. 🎉 Merged PR [#18](https://github.com/Variable-Interactive/Variable-Store/pull/18) in [Variable-Interactive/Variable-Store](https://github.com/Variable-Interactive/Variable-Store)
+2. 🎉 Merged PR [#2](https://github.com/Variable-ind/Pixelorama-Extensions/pull/2) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
+3. 💪 Opened PR [#876](https://github.com/Orama-Interactive/Pixelorama/pull/876) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+4. 🔒 Closed issue [#78036](https://github.com/godotengine/godot/issues/78036) in [godotengine/godot](https://github.com/godotengine/godot)
 5. 🗣 Commented on [#78036](https://github.com/godotengine/godot/issues/78036) in [godotengine/godot](https://github.com/godotengine/godot)
 <!--END_SECTION:activity-->
 
