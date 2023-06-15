@@ -10,11 +10,11 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/Variable-Interactive/Variable-Store/pull/19) in [Variable-Interactive/Variable-Store](https://github.com/Variable-Interactive/Variable-Store)
-2. 💪 Opened PR [#19](https://github.com/Variable-Interactive/Variable-Store/pull/19) in [Variable-Interactive/Variable-Store](https://github.com/Variable-Interactive/Variable-Store)
-3. 🎉 Merged PR [#3](https://github.com/Variable-ind/Pixelorama-Extensions/pull/3) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
-4. 💪 Opened PR [#3](https://github.com/Variable-ind/Pixelorama-Extensions/pull/3) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
-5. 🎉 Merged PR [#18](https://github.com/Variable-Interactive/Variable-Store/pull/18) in [Variable-Interactive/Variable-Store](https://github.com/Variable-Interactive/Variable-Store)
+1. 💪 Opened PR [#878](https://github.com/Orama-Interactive/Pixelorama/pull/878) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. 🎉 Merged PR [#19](https://github.com/Variable-Interactive/Variable-Store/pull/19) in [Variable-Interactive/Variable-Store](https://github.com/Variable-Interactive/Variable-Store)
+3. 💪 Opened PR [#19](https://github.com/Variable-Interactive/Variable-Store/pull/19) in [Variable-Interactive/Variable-Store](https://github.com/Variable-Interactive/Variable-Store)
+4. 🎉 Merged PR [#3](https://github.com/Variable-ind/Pixelorama-Extensions/pull/3) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
+5. 💪 Opened PR [#3](https://github.com/Variable-ind/Pixelorama-Extensions/pull/3) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
 <!--END_SECTION:activity-->
 
 <!--
