@@ -10,11 +10,11 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/Variable-ind/Pixelorama-Extensions/pull/8) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
-2. 💪 Opened PR [#8](https://github.com/Variable-ind/Pixelorama-Extensions/pull/8) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
-3. 🚀 Published release [released 0.1](https://github.com/Variable-Interactive/Race-ya/releases/tag/0.1) in [Variable-Interactive/Race-ya](https://github.com/Variable-Interactive/Race-ya)
-4. 🚀 Published release [improved version](https://github.com/Variable-Interactive/CrealityThumbnailPlugin/releases/tag/v0.1.0) in [Variable-Interactive/CrealityThumbnailPlugin](https://github.com/Variable-Interactive/CrealityThumbnailPlugin)
-5. 💪 Opened PR [#896](https://github.com/Orama-Interactive/Pixelorama/pull/896) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+1. 🎉 Merged PR [#1](https://github.com/Variable-Interactive/SmartSlicer/pull/1) in [Variable-Interactive/SmartSlicer](https://github.com/Variable-Interactive/SmartSlicer)
+2. 🎉 Merged PR [#8](https://github.com/Variable-ind/Pixelorama-Extensions/pull/8) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
+3. 💪 Opened PR [#8](https://github.com/Variable-ind/Pixelorama-Extensions/pull/8) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
+4. 🚀 Published release [released 0.1](https://github.com/Variable-Interactive/Race-ya/releases/tag/0.1) in [Variable-Interactive/Race-ya](https://github.com/Variable-Interactive/Race-ya)
+5. 🚀 Published release [improved version](https://github.com/Variable-Interactive/CrealityThumbnailPlugin/releases/tag/v0.1.0) in [Variable-Interactive/CrealityThumbnailPlugin](https://github.com/Variable-Interactive/CrealityThumbnailPlugin)
 <!--END_SECTION:activity-->
 
 <!--
