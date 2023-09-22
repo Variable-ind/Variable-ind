@@ -10,11 +10,11 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#82048](https://github.com/godotengine/godot/issues/82048) in [godotengine/godot](https://github.com/godotengine/godot)
-2. ❗ Opened issue [#81965](https://github.com/godotengine/godot/issues/81965) in [godotengine/godot](https://github.com/godotengine/godot)
-3. ❗ Opened issue [#81857](https://github.com/godotengine/godot/issues/81857) in [godotengine/godot](https://github.com/godotengine/godot)
-4. ❗ Opened issue [#81826](https://github.com/godotengine/godot/issues/81826) in [godotengine/godot](https://github.com/godotengine/godot)
-5. 💪 Opened PR [#910](https://github.com/Orama-Interactive/Pixelorama/pull/910) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+1. 🗣 Commented on [#82048](https://github.com/godotengine/godot/issues/82048#issuecomment-1730729342) in [godotengine/godot](https://github.com/godotengine/godot)
+2. ❗ Opened issue [#82048](https://github.com/godotengine/godot/issues/82048) in [godotengine/godot](https://github.com/godotengine/godot)
+3. ❗ Opened issue [#81965](https://github.com/godotengine/godot/issues/81965) in [godotengine/godot](https://github.com/godotengine/godot)
+4. ❗ Opened issue [#81857](https://github.com/godotengine/godot/issues/81857) in [godotengine/godot](https://github.com/godotengine/godot)
+5. ❗ Opened issue [#81826](https://github.com/godotengine/godot/issues/81826) in [godotengine/godot](https://github.com/godotengine/godot)
 <!--END_SECTION:activity-->
 
 <!--
