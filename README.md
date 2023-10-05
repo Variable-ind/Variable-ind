@@ -10,11 +10,11 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#913](https://github.com/Orama-Interactive/Pixelorama/pull/913) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-2. 🗣 Commented on [#913](https://github.com/Orama-Interactive/Pixelorama/pull/913#issuecomment-1732255483) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-3. 💪 Opened PR [#913](https://github.com/Orama-Interactive/Pixelorama/pull/913) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-4. 🗣 Commented on [#82048](https://github.com/godotengine/godot/issues/82048#issuecomment-1730865155) in [godotengine/godot](https://github.com/godotengine/godot)
-5. 🗣 Commented on [#82048](https://github.com/godotengine/godot/issues/82048#issuecomment-1730729342) in [godotengine/godot](https://github.com/godotengine/godot)
+1. 🎉 Merged PR [#10](https://github.com/Variable-ind/Pixelorama-Extensions/pull/10) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
+2. 💪 Opened PR [#10](https://github.com/Variable-ind/Pixelorama-Extensions/pull/10) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
+3. ❌ Closed PR [#913](https://github.com/Orama-Interactive/Pixelorama/pull/913) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+4. 🗣 Commented on [#913](https://github.com/Orama-Interactive/Pixelorama/pull/913#issuecomment-1732255483) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+5. 💪 Opened PR [#913](https://github.com/Orama-Interactive/Pixelorama/pull/913) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 <!--END_SECTION:activity-->
 
 <!--
