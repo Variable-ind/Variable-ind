@@ -10,11 +10,11 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#942](https://github.com/Orama-Interactive/Pixelorama/pull/942) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-2. 💪 Opened PR [#941](https://github.com/Orama-Interactive/Pixelorama/pull/941) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-3. 🚀 Published release [v0.2](https://github.com/Variable-ind/PixeloramaCageTransform/releases/tag/v0.2) in [Variable-ind/PixeloramaCageTransform](https://github.com/Variable-ind/PixeloramaCageTransform)
-4. 💪 Opened PR [#937](https://github.com/Orama-Interactive/Pixelorama/pull/937) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-5. 🗣 Commented on [#84579](https://github.com/godotengine/godot/issues/84579#issuecomment-1799742672) in [godotengine/godot](https://github.com/godotengine/godot)
+1. 💪 Opened PR [#65](https://github.com/Orama-Interactive/Pixelorama-Docs/pull/65) in [Orama-Interactive/Pixelorama-Docs](https://github.com/Orama-Interactive/Pixelorama-Docs)
+2. 💪 Opened PR [#942](https://github.com/Orama-Interactive/Pixelorama/pull/942) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+3. 💪 Opened PR [#941](https://github.com/Orama-Interactive/Pixelorama/pull/941) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+4. 🚀 Published release [v0.2](https://github.com/Variable-ind/PixeloramaCageTransform/releases/tag/v0.2) in [Variable-ind/PixeloramaCageTransform](https://github.com/Variable-ind/PixeloramaCageTransform)
+5. 💪 Opened PR [#937](https://github.com/Orama-Interactive/Pixelorama/pull/937) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 <!--END_SECTION:activity-->
 
 <!--
