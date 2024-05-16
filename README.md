@@ -10,11 +10,11 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/OverloadedOrama/Lospec-Palette-Importer/pull/1) in [OverloadedOrama/Lospec-Palette-Importer](https://github.com/OverloadedOrama/Lospec-Palette-Importer)
-2. 🎉 Merged PR [#3](https://github.com/Variable-ind/Pixelorama/pull/3) in [Variable-ind/Pixelorama](https://github.com/Variable-ind/Pixelorama)
-3. 💪 Opened PR [#3](https://github.com/Variable-ind/Pixelorama/pull/3) in [Variable-ind/Pixelorama](https://github.com/Variable-ind/Pixelorama)
-4. ❌ Closed PR [#2](https://github.com/Variable-ind/Pixelorama/pull/2) in [Variable-ind/Pixelorama](https://github.com/Variable-ind/Pixelorama)
-5. 💪 Opened PR [#2](https://github.com/Variable-ind/Pixelorama/pull/2) in [Variable-ind/Pixelorama](https://github.com/Variable-ind/Pixelorama)
+1. 💪 Opened PR [#1019](https://github.com/Orama-Interactive/Pixelorama/pull/1019) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. 💪 Opened PR [#1](https://github.com/OverloadedOrama/Lospec-Palette-Importer/pull/1) in [OverloadedOrama/Lospec-Palette-Importer](https://github.com/OverloadedOrama/Lospec-Palette-Importer)
+3. 🎉 Merged PR [#3](https://github.com/Variable-ind/Pixelorama/pull/3) in [Variable-ind/Pixelorama](https://github.com/Variable-ind/Pixelorama)
+4. 💪 Opened PR [#3](https://github.com/Variable-ind/Pixelorama/pull/3) in [Variable-ind/Pixelorama](https://github.com/Variable-ind/Pixelorama)
+5. ❌ Closed PR [#2](https://github.com/Variable-ind/Pixelorama/pull/2) in [Variable-ind/Pixelorama](https://github.com/Variable-ind/Pixelorama)
 <!--END_SECTION:activity-->
 
 <!--
