@@ -10,11 +10,11 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9858](https://github.com/godotengine/godot-proposals/issues/9858) in [godotengine/godot-proposals](https://github.com/godotengine/godot-proposals)
-2. ❗ Opened issue [#92589](https://github.com/godotengine/godot/issues/92589) in [godotengine/godot](https://github.com/godotengine/godot)
-3. 🗣 Commented on [#13](https://github.com/Variable-ind/Pixelorama-Extensions/issues/13#issuecomment-2123766149) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
-4. 🗣 Commented on [#13](https://github.com/Variable-ind/Pixelorama-Extensions/issues/13#issuecomment-2123557404) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
-5. 🗣 Commented on [#13](https://github.com/Variable-ind/Pixelorama-Extensions/issues/13#issuecomment-2123153236) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
+1. 🗣 Commented on [#1029](https://github.com/Orama-Interactive/Pixelorama/issues/1029#issuecomment-2198584266) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. ❗ Opened issue [#9858](https://github.com/godotengine/godot-proposals/issues/9858) in [godotengine/godot-proposals](https://github.com/godotengine/godot-proposals)
+3. ❗ Opened issue [#92589](https://github.com/godotengine/godot/issues/92589) in [godotengine/godot](https://github.com/godotengine/godot)
+4. 🗣 Commented on [#13](https://github.com/Variable-ind/Pixelorama-Extensions/issues/13#issuecomment-2123766149) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
+5. 🗣 Commented on [#13](https://github.com/Variable-ind/Pixelorama-Extensions/issues/13#issuecomment-2123557404) in [Variable-ind/Pixelorama-Extensions](https://github.com/Variable-ind/Pixelorama-Extensions)
 <!--END_SECTION:activity-->
 
 <!--
