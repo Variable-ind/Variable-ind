@@ -10,11 +10,11 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.2](https://github.com/Variable-Interactive/CameraZoomer/releases/tag/v0.2) in [Variable-Interactive/CameraZoomer](https://github.com/Variable-Interactive/CameraZoomer)
-2. 💪 Opened PR [#1045](https://github.com/Orama-Interactive/Pixelorama/pull/1045) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-3. 💪 Opened PR [#1044](https://github.com/Orama-Interactive/Pixelorama/pull/1044) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-4. 🚀 Published release [v1.0](https://github.com/Variable-Interactive/Audia/releases/tag/v1.0) in [Variable-Interactive/Audia](https://github.com/Variable-Interactive/Audia)
-5. 🚀 Published release [v0.2](https://github.com/Variable-Interactive/TimeTracking/releases/tag/v0.2) in [Variable-Interactive/TimeTracking](https://github.com/Variable-Interactive/TimeTracking)
+1. 💪 Opened PR [#1046](https://github.com/Orama-Interactive/Pixelorama/pull/1046) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. 🚀 Published release [v0.2](https://github.com/Variable-Interactive/CameraZoomer/releases/tag/v0.2) in [Variable-Interactive/CameraZoomer](https://github.com/Variable-Interactive/CameraZoomer)
+3. 💪 Opened PR [#1045](https://github.com/Orama-Interactive/Pixelorama/pull/1045) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+4. 💪 Opened PR [#1044](https://github.com/Orama-Interactive/Pixelorama/pull/1044) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+5. 🚀 Published release [v1.0](https://github.com/Variable-Interactive/Audia/releases/tag/v1.0) in [Variable-Interactive/Audia](https://github.com/Variable-Interactive/Audia)
 <!--END_SECTION:activity-->
 
 <!--
