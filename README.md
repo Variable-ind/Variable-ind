@@ -10,11 +10,11 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/Orama-Interactive/VoxeloramaExtension/pull/8) in [Orama-Interactive/VoxeloramaExtension](https://github.com/Orama-Interactive/VoxeloramaExtension)
-2. 💪 Opened PR [#3](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/3) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
-3. 🚀 Published release [v0.2](https://github.com/Variable-Interactive/LineArt/releases/tag/v0.2) in [Variable-Interactive/LineArt](https://github.com/Variable-Interactive/LineArt)
-4. 💪 Opened PR [#7](https://github.com/Orama-Interactive/VoxeloramaExtension/pull/7) in [Orama-Interactive/VoxeloramaExtension](https://github.com/Orama-Interactive/VoxeloramaExtension)
-5. 💪 Opened PR [#6](https://github.com/Orama-Interactive/VoxeloramaExtension/pull/6) in [Orama-Interactive/VoxeloramaExtension](https://github.com/Orama-Interactive/VoxeloramaExtension)
+1. 🚀 Published release [v0.1](https://github.com/Variable-Interactive/PaletteAI/releases/tag/v0.1) in [Variable-Interactive/PaletteAI](https://github.com/Variable-Interactive/PaletteAI)
+2. 💪 Opened PR [#8](https://github.com/Orama-Interactive/VoxeloramaExtension/pull/8) in [Orama-Interactive/VoxeloramaExtension](https://github.com/Orama-Interactive/VoxeloramaExtension)
+3. 💪 Opened PR [#3](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/3) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
+4. 🚀 Published release [v0.2](https://github.com/Variable-Interactive/LineArt/releases/tag/v0.2) in [Variable-Interactive/LineArt](https://github.com/Variable-Interactive/LineArt)
+5. 💪 Opened PR [#7](https://github.com/Orama-Interactive/VoxeloramaExtension/pull/7) in [Orama-Interactive/VoxeloramaExtension](https://github.com/Orama-Interactive/VoxeloramaExtension)
 <!--END_SECTION:activity-->
 
 <!--
