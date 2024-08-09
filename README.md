@@ -10,11 +10,11 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Variable-Interactive/NeuralNetwork/pull/1) in [Variable-Interactive/NeuralNetwork](https://github.com/Variable-Interactive/NeuralNetwork)
-2. 💪 Opened PR [#1](https://github.com/Variable-Interactive/NeuralNetwork/pull/1) in [Variable-Interactive/NeuralNetwork](https://github.com/Variable-Interactive/NeuralNetwork)
-3. 🚀 Published release [v0.1](https://github.com/Variable-Interactive/PaletteAI/releases/tag/v0.1) in [Variable-Interactive/PaletteAI](https://github.com/Variable-Interactive/PaletteAI)
-4. 💪 Opened PR [#8](https://github.com/Orama-Interactive/VoxeloramaExtension/pull/8) in [Orama-Interactive/VoxeloramaExtension](https://github.com/Orama-Interactive/VoxeloramaExtension)
-5. 💪 Opened PR [#3](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/3) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
+1. 🗣 Commented on [#1071](https://github.com/Orama-Interactive/Pixelorama/issues/1071#issuecomment-2278811150) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. 🎉 Merged PR [#1](https://github.com/Variable-Interactive/NeuralNetwork/pull/1) in [Variable-Interactive/NeuralNetwork](https://github.com/Variable-Interactive/NeuralNetwork)
+3. 💪 Opened PR [#1](https://github.com/Variable-Interactive/NeuralNetwork/pull/1) in [Variable-Interactive/NeuralNetwork](https://github.com/Variable-Interactive/NeuralNetwork)
+4. 🚀 Published release [v0.1](https://github.com/Variable-Interactive/PaletteAI/releases/tag/v0.1) in [Variable-Interactive/PaletteAI](https://github.com/Variable-Interactive/PaletteAI)
+5. 💪 Opened PR [#8](https://github.com/Orama-Interactive/VoxeloramaExtension/pull/8) in [Orama-Interactive/VoxeloramaExtension](https://github.com/Orama-Interactive/VoxeloramaExtension)
 <!--END_SECTION:activity-->
 
 <!--
