@@ -10,11 +10,11 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1080](https://github.com/Orama-Interactive/Pixelorama/pull/1080) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-2. 🗣 Commented on [#1079](https://github.com/Orama-Interactive/Pixelorama/pull/1079#issuecomment-2286225785) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-3. 🗣 Commented on [#1071](https://github.com/Orama-Interactive/Pixelorama/issues/1071#issuecomment-2278811150) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-4. 🎉 Merged PR [#1](https://github.com/Variable-Interactive/NeuralNetwork/pull/1) in [Variable-Interactive/NeuralNetwork](https://github.com/Variable-Interactive/NeuralNetwork)
-5. 💪 Opened PR [#1](https://github.com/Variable-Interactive/NeuralNetwork/pull/1) in [Variable-Interactive/NeuralNetwork](https://github.com/Variable-Interactive/NeuralNetwork)
+1. 🗣 Commented on [#1075](https://github.com/Orama-Interactive/Pixelorama/pull/1075#issuecomment-2294679170) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. 💪 Opened PR [#1080](https://github.com/Orama-Interactive/Pixelorama/pull/1080) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+3. 🗣 Commented on [#1079](https://github.com/Orama-Interactive/Pixelorama/pull/1079#issuecomment-2286225785) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+4. 🗣 Commented on [#1071](https://github.com/Orama-Interactive/Pixelorama/issues/1071#issuecomment-2278811150) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+5. 🎉 Merged PR [#1](https://github.com/Variable-Interactive/NeuralNetwork/pull/1) in [Variable-Interactive/NeuralNetwork](https://github.com/Variable-Interactive/NeuralNetwork)
 <!--END_SECTION:activity-->
 
 <!--
