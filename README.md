@@ -10,11 +10,11 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/5) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
-2. 🚀 Published release [v0.3](https://github.com/Variable-Interactive/CameraZoomer/releases/tag/v0.3) in [Variable-Interactive/CameraZoomer](https://github.com/Variable-Interactive/CameraZoomer)
-3. 💪 Opened PR [#4](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/4) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
-4. 🚀 Published release [v1.2](https://github.com/Variable-Interactive/ExtensionCreator/releases/tag/v1.2) in [Variable-Interactive/ExtensionCreator](https://github.com/Variable-Interactive/ExtensionCreator)
-5. 🗣 Commented on [#1075](https://github.com/Orama-Interactive/Pixelorama/pull/1075#issuecomment-2294679170) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+1. 🚀 Published release [v0.3](https://github.com/Variable-Interactive/LineArt/releases/tag/v0.3) in [Variable-Interactive/LineArt](https://github.com/Variable-Interactive/LineArt)
+2. 💪 Opened PR [#5](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/5) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
+3. 🚀 Published release [v0.3](https://github.com/Variable-Interactive/CameraZoomer/releases/tag/v0.3) in [Variable-Interactive/CameraZoomer](https://github.com/Variable-Interactive/CameraZoomer)
+4. 💪 Opened PR [#4](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/4) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
+5. 🚀 Published release [v1.2](https://github.com/Variable-Interactive/ExtensionCreator/releases/tag/v1.2) in [Variable-Interactive/ExtensionCreator](https://github.com/Variable-Interactive/ExtensionCreator)
 <!--END_SECTION:activity-->
 
 <!--
