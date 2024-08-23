@@ -10,11 +10,11 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.3](https://github.com/Variable-Interactive/LineArt/releases/tag/v0.3) in [Variable-Interactive/LineArt](https://github.com/Variable-Interactive/LineArt)
-2. 💪 Opened PR [#5](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/5) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
-3. 🚀 Published release [v0.3](https://github.com/Variable-Interactive/CameraZoomer/releases/tag/v0.3) in [Variable-Interactive/CameraZoomer](https://github.com/Variable-Interactive/CameraZoomer)
-4. 💪 Opened PR [#4](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/4) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
-5. 🚀 Published release [v1.2](https://github.com/Variable-Interactive/ExtensionCreator/releases/tag/v1.2) in [Variable-Interactive/ExtensionCreator](https://github.com/Variable-Interactive/ExtensionCreator)
+1. 💪 Opened PR [#6](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/6) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
+2. 🚀 Published release [v0.3](https://github.com/Variable-Interactive/TimeTracking/releases/tag/v0.3) in [Variable-Interactive/TimeTracking](https://github.com/Variable-Interactive/TimeTracking)
+3. 🗣 Commented on [#1084](https://github.com/Orama-Interactive/Pixelorama/issues/1084#issuecomment-2307122619) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+4. 🚀 Published release [v0.3](https://github.com/Variable-Interactive/LineArt/releases/tag/v0.3) in [Variable-Interactive/LineArt](https://github.com/Variable-Interactive/LineArt)
+5. 💪 Opened PR [#5](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/5) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
 <!--END_SECTION:activity-->
 
 <!--
