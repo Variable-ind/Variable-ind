@@ -10,11 +10,11 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/7) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
-2. 🚀 Published release [v1.1](https://github.com/Variable-Interactive/Audia/releases/tag/v1.1) in [Variable-Interactive/Audia](https://github.com/Variable-Interactive/Audia)
-3. 💪 Opened PR [#6](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/6) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
-4. 🚀 Published release [v0.3](https://github.com/Variable-Interactive/TimeTracking/releases/tag/v0.3) in [Variable-Interactive/TimeTracking](https://github.com/Variable-Interactive/TimeTracking)
-5. 🗣 Commented on [#1084](https://github.com/Orama-Interactive/Pixelorama/issues/1084#issuecomment-2307122619) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+1. 🚀 Published release [v1.1](https://github.com/Variable-Interactive/Audia/releases/tag/v1.1) in [Variable-Interactive/Audia](https://github.com/Variable-Interactive/Audia)
+2. 💪 Opened PR [#7](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/7) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
+3. 🚀 Published release [v1.1](https://github.com/Variable-Interactive/Audia/releases/tag/v1.1) in [Variable-Interactive/Audia](https://github.com/Variable-Interactive/Audia)
+4. 💪 Opened PR [#6](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/6) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
+5. 🚀 Published release [v0.3](https://github.com/Variable-Interactive/TimeTracking/releases/tag/v0.3) in [Variable-Interactive/TimeTracking](https://github.com/Variable-Interactive/TimeTracking)
 <!--END_SECTION:activity-->
 
 <!--
