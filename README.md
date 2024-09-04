@@ -10,11 +10,11 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#68](https://github.com/vaporvee/discord-rpc-godot/issues/68) in [vaporvee/discord-rpc-godot](https://github.com/vaporvee/discord-rpc-godot)
-2. 🗣 Commented on [#68](https://github.com/vaporvee/discord-rpc-godot/issues/68#issuecomment-2327004116) in [vaporvee/discord-rpc-godot](https://github.com/vaporvee/discord-rpc-godot)
-3. 🗣 Commented on [#68](https://github.com/vaporvee/discord-rpc-godot/issues/68#issuecomment-2326978458) in [vaporvee/discord-rpc-godot](https://github.com/vaporvee/discord-rpc-godot)
-4. ❗ Opened issue [#68](https://github.com/vaporvee/discord-rpc-godot/issues/68) in [vaporvee/discord-rpc-godot](https://github.com/vaporvee/discord-rpc-godot)
-5. 🚀 Published release [v1.3](https://github.com/Variable-Interactive/ExtensionCreator/releases/tag/v1.3) in [Variable-Interactive/ExtensionCreator](https://github.com/Variable-Interactive/ExtensionCreator)
+1. 🗣 Commented on [#1086](https://github.com/Orama-Interactive/Pixelorama/pull/1086#issuecomment-2328019094) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. 🔒 Closed issue [#68](https://github.com/vaporvee/discord-rpc-godot/issues/68) in [vaporvee/discord-rpc-godot](https://github.com/vaporvee/discord-rpc-godot)
+3. 🗣 Commented on [#68](https://github.com/vaporvee/discord-rpc-godot/issues/68#issuecomment-2327004116) in [vaporvee/discord-rpc-godot](https://github.com/vaporvee/discord-rpc-godot)
+4. 🗣 Commented on [#68](https://github.com/vaporvee/discord-rpc-godot/issues/68#issuecomment-2326978458) in [vaporvee/discord-rpc-godot](https://github.com/vaporvee/discord-rpc-godot)
+5. ❗ Opened issue [#68](https://github.com/vaporvee/discord-rpc-godot/issues/68) in [vaporvee/discord-rpc-godot](https://github.com/vaporvee/discord-rpc-godot)
 <!--END_SECTION:activity-->
 
 <!--
