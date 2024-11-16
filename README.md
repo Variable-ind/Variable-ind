@@ -10,11 +10,11 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Variable-Interactive/QuickDocks/pull/1) in [Variable-Interactive/QuickDocks](https://github.com/Variable-Interactive/QuickDocks)
-2. 💪 Opened PR [#10](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/10) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
-3. 🚀 Published release [V0.1](https://github.com/Variable-Interactive/QuickDocks/releases/tag/v0.1) in [Variable-Interactive/QuickDocks](https://github.com/Variable-Interactive/QuickDocks)
-4. 💪 Opened PR [#97](https://github.com/Orama-Interactive/Pixelorama-Docs/pull/97) in [Orama-Interactive/Pixelorama-Docs](https://github.com/Orama-Interactive/Pixelorama-Docs)
-5. 💪 Opened PR [#1132](https://github.com/Orama-Interactive/Pixelorama/pull/1132) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+1. 🚀 Published release [v0.2](https://github.com/Variable-Interactive/QuickDocks/releases/tag/v0.2) in [Variable-Interactive/QuickDocks](https://github.com/Variable-Interactive/QuickDocks)
+2. 🎉 Merged PR [#1](https://github.com/Variable-Interactive/QuickDocks/pull/1) in [Variable-Interactive/QuickDocks](https://github.com/Variable-Interactive/QuickDocks)
+3. 💪 Opened PR [#1](https://github.com/Variable-Interactive/QuickDocks/pull/1) in [Variable-Interactive/QuickDocks](https://github.com/Variable-Interactive/QuickDocks)
+4. 💪 Opened PR [#10](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/10) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
+5. 🚀 Published release [V0.1](https://github.com/Variable-Interactive/QuickDocks/releases/tag/v0.1) in [Variable-Interactive/QuickDocks](https://github.com/Variable-Interactive/QuickDocks)
 <!--END_SECTION:activity-->
 
 <!--
