@@ -10,11 +10,11 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/12) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
-2. ❌ Closed PR [#2](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/2) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
-3. 🚀 Published release [V0.1](https://github.com/Variable-Interactive/PixeloramaLegacyColorPicker/releases/tag/v0.1) in [Variable-Interactive/PixeloramaLegacyColorPicker](https://github.com/Variable-Interactive/PixeloramaLegacyColorPicker)
-4. 💪 Opened PR [#1162](https://github.com/Orama-Interactive/Pixelorama/pull/1162) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-5. 💪 Opened PR [#1161](https://github.com/Orama-Interactive/Pixelorama/pull/1161) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+1. 💪 Opened PR [#1167](https://github.com/Orama-Interactive/Pixelorama/pull/1167) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. 💪 Opened PR [#12](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/12) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
+3. ❌ Closed PR [#2](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/2) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
+4. 🚀 Published release [V0.1](https://github.com/Variable-Interactive/PixeloramaLegacyColorPicker/releases/tag/v0.1) in [Variable-Interactive/PixeloramaLegacyColorPicker](https://github.com/Variable-Interactive/PixeloramaLegacyColorPicker)
+5. 💪 Opened PR [#1162](https://github.com/Orama-Interactive/Pixelorama/pull/1162) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 <!--END_SECTION:activity-->
 
 <!--
