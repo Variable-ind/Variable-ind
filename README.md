@@ -10,11 +10,11 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1133](https://github.com/Orama-Interactive/Pixelorama/issues/1133#issuecomment-2664542193) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-2. 🔒 Closed issue [#1](https://github.com/Variable-Interactive/Skeletor/issues/1) in [Variable-Interactive/Skeletor](https://github.com/Variable-Interactive/Skeletor)
-3. 🗣 Commented on [#1](https://github.com/Variable-Interactive/Skeletor/issues/1#issuecomment-2661548506) in [Variable-Interactive/Skeletor](https://github.com/Variable-Interactive/Skeletor)
-4. 🗣 Commented on [#1177](https://github.com/Orama-Interactive/Pixelorama/pull/1177#issuecomment-2660868172) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-5. 💪 Opened PR [#1177](https://github.com/Orama-Interactive/Pixelorama/pull/1177) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+1. 💪 Opened PR [#107](https://github.com/Orama-Interactive/Pixelorama-Docs/pull/107) in [Orama-Interactive/Pixelorama-Docs](https://github.com/Orama-Interactive/Pixelorama-Docs)
+2. 🗣 Commented on [#1133](https://github.com/Orama-Interactive/Pixelorama/issues/1133#issuecomment-2664542193) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+3. 🔒 Closed issue [#1](https://github.com/Variable-Interactive/Skeletor/issues/1) in [Variable-Interactive/Skeletor](https://github.com/Variable-Interactive/Skeletor)
+4. 🗣 Commented on [#1](https://github.com/Variable-Interactive/Skeletor/issues/1#issuecomment-2661548506) in [Variable-Interactive/Skeletor](https://github.com/Variable-Interactive/Skeletor)
+5. 🗣 Commented on [#1177](https://github.com/Orama-Interactive/Pixelorama/pull/1177#issuecomment-2660868172) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 <!--END_SECTION:activity-->
 
 <!--
