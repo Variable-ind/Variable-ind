@@ -10,11 +10,11 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1115](https://github.com/Orama-Interactive/Pixelorama/issues/1115#issuecomment-2708982246) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-2. 🗣 Commented on [#1190](https://github.com/Orama-Interactive/Pixelorama/issues/1190#issuecomment-2692586166) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-3. 💪 Opened PR [#107](https://github.com/Orama-Interactive/Pixelorama-Docs/pull/107) in [Orama-Interactive/Pixelorama-Docs](https://github.com/Orama-Interactive/Pixelorama-Docs)
-4. 🗣 Commented on [#1](https://github.com/Variable-Interactive/Skeletor/issues/1#issuecomment-2661548506) in [Variable-Interactive/Skeletor](https://github.com/Variable-Interactive/Skeletor)
-5. 🗣 Commented on [#1177](https://github.com/Orama-Interactive/Pixelorama/pull/1177#issuecomment-2660868172) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+1. 💪 Opened PR [#1194](https://github.com/Orama-Interactive/Pixelorama/pull/1194) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. 🗣 Commented on [#1115](https://github.com/Orama-Interactive/Pixelorama/issues/1115#issuecomment-2709013505) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+3. 🗣 Commented on [#1115](https://github.com/Orama-Interactive/Pixelorama/issues/1115#issuecomment-2708982246) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+4. 🗣 Commented on [#1190](https://github.com/Orama-Interactive/Pixelorama/issues/1190#issuecomment-2692586166) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+5. 💪 Opened PR [#107](https://github.com/Orama-Interactive/Pixelorama-Docs/pull/107) in [Orama-Interactive/Pixelorama-Docs](https://github.com/Orama-Interactive/Pixelorama-Docs)
 <!--END_SECTION:activity-->
 
 <!--
