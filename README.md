@@ -10,9 +10,9 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/17) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
-2. 🚀 Published release [v0.4](https://github.com/Variable-Interactive/TimeTracking/releases/tag/v0.4) in [Variable-Interactive/TimeTracking](https://github.com/Variable-Interactive/TimeTracking)
-3. 🚀 Published release [v0.4](https://github.com/Variable-Interactive/TimeTracking/releases/tag/v0.4) in [Variable-Interactive/TimeTracking](https://github.com/Variable-Interactive/TimeTracking)
+1. 💪 Opened PR [#18](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/18) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
+2. 🚀 Published release [v0.3](https://github.com/Variable-Interactive/QuickDocks/releases/tag/v0.3) in [Variable-Interactive/QuickDocks](https://github.com/Variable-Interactive/QuickDocks)
+3. 💪 Opened PR [#17](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/17) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
 4. 🚀 Published release [v0.4](https://github.com/Variable-Interactive/TimeTracking/releases/tag/v0.4) in [Variable-Interactive/TimeTracking](https://github.com/Variable-Interactive/TimeTracking)
 5. 🚀 Published release [v0.4](https://github.com/Variable-Interactive/TimeTracking/releases/tag/v0.4) in [Variable-Interactive/TimeTracking](https://github.com/Variable-Interactive/TimeTracking)
 <!--END_SECTION:activity-->
