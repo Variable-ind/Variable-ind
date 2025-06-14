@@ -10,11 +10,11 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1250](https://github.com/Orama-Interactive/Pixelorama/issues/1250#issuecomment-2965277639) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-2. 💪 Opened PR [#1265](https://github.com/Orama-Interactive/Pixelorama/pull/1265) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-3. 💪 Opened PR [#21](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/21) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
-4. 🚀 Published release [v0.12](https://github.com/Variable-Interactive/Skeletor/releases/tag/v0.12) in [Variable-Interactive/Skeletor](https://github.com/Variable-Interactive/Skeletor)
-5. 💪 Opened PR [#1262](https://github.com/Orama-Interactive/Pixelorama/pull/1262) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+1. 🗣 Commented on [#1273](https://github.com/Orama-Interactive/Pixelorama/issues/1273#issuecomment-2970767231) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. 🗣 Commented on [#1250](https://github.com/Orama-Interactive/Pixelorama/issues/1250#issuecomment-2965277639) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+3. 💪 Opened PR [#1265](https://github.com/Orama-Interactive/Pixelorama/pull/1265) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+4. 💪 Opened PR [#21](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/21) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
+5. 🚀 Published release [v0.12](https://github.com/Variable-Interactive/Skeletor/releases/tag/v0.12) in [Variable-Interactive/Skeletor](https://github.com/Variable-Interactive/Skeletor)
 <!--END_SECTION:activity-->
 
 <!--
