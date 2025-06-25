@@ -10,11 +10,11 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1281](https://github.com/Orama-Interactive/Pixelorama/pull/1281) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-2. 🗣 Commented on [#1280](https://github.com/Orama-Interactive/Pixelorama/issues/1280#issuecomment-2987712303) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-3. 🗣 Commented on [#1277](https://github.com/Orama-Interactive/Pixelorama/issues/1277#issuecomment-2978098655) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-4. 💪 Opened PR [#22](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/22) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
-5. 🚀 Published release [v0.3](https://github.com/Variable-Interactive/PixeloramaLifeSaver/releases/tag/v0.3) in [Variable-Interactive/PixeloramaLifeSaver](https://github.com/Variable-Interactive/PixeloramaLifeSaver)
+1. 🗣 Commented on [#1287](https://github.com/Orama-Interactive/Pixelorama/issues/1287#issuecomment-3001105447) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. 💪 Opened PR [#1281](https://github.com/Orama-Interactive/Pixelorama/pull/1281) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+3. 🗣 Commented on [#1280](https://github.com/Orama-Interactive/Pixelorama/issues/1280#issuecomment-2987712303) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+4. 🗣 Commented on [#1277](https://github.com/Orama-Interactive/Pixelorama/issues/1277#issuecomment-2978098655) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+5. 💪 Opened PR [#22](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/22) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
 <!--END_SECTION:activity-->
 
 <!--
