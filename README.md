@@ -10,9 +10,9 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1358](https://github.com/Orama-Interactive/Pixelorama/pull/1358) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-2. 💪 Opened PR [#1353](https://github.com/Orama-Interactive/Pixelorama/pull/1353) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-3. 💪 Opened PR [#3](https://github.com/Orama-Interactive/TeledrawingPixelorama/pull/3) in [Orama-Interactive/TeledrawingPixelorama](https://github.com/Orama-Interactive/TeledrawingPixelorama)
+1. 💪 Opened PR [#1359](https://github.com/Orama-Interactive/Pixelorama/pull/1359) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. 💪 Opened PR [#1358](https://github.com/Orama-Interactive/Pixelorama/pull/1358) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+3. 💪 Opened PR [#1353](https://github.com/Orama-Interactive/Pixelorama/pull/1353) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 4. 🗣 Commented on [#1](https://github.com/Orama-Interactive/TeledrawingPixelorama/pull/1#issuecomment-3248556267) in [Orama-Interactive/TeledrawingPixelorama](https://github.com/Orama-Interactive/TeledrawingPixelorama)
 5. ❌ Closed PR [#1](https://github.com/Orama-Interactive/TeledrawingPixelorama/pull/1) in [Orama-Interactive/TeledrawingPixelorama](https://github.com/Orama-Interactive/TeledrawingPixelorama)
 <!--END_SECTION:activity-->
