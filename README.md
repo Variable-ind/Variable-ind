@@ -10,11 +10,11 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1](https://github.com/Variable-Interactive/KeyDisplay/releases/tag/v1.1) in [Variable-Interactive/KeyDisplay](https://github.com/Variable-Interactive/KeyDisplay)
-2. 💪 Opened PR [#24](undefined) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
-3. 🚀 Published release [v1.6](https://github.com/Variable-Interactive/ExtensionCreator/releases/tag/v1.6) in [Variable-Interactive/ExtensionCreator](https://github.com/Variable-Interactive/ExtensionCreator)
-4. 💪 Opened PR [#1364](undefined) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-5. 🚀 Published release [v0.2](https://github.com/Variable-Interactive/PixeloramaColorChecker/releases/tag/v0.2) in [Variable-Interactive/PixeloramaColorChecker](https://github.com/Variable-Interactive/PixeloramaColorChecker)
+1. 🚀 Published release [v0.5](https://github.com/Variable-Interactive/TimeTracking/releases/tag/v0.5) in [Variable-Interactive/TimeTracking](https://github.com/Variable-Interactive/TimeTracking)
+2. 🚀 Published release [v0.5](https://github.com/Variable-Interactive/LineArt/releases/tag/v0.5) in [Variable-Interactive/LineArt](https://github.com/Variable-Interactive/LineArt)
+3. 🚀 Published release [v1.1](https://github.com/Variable-Interactive/KeyDisplay/releases/tag/v1.1) in [Variable-Interactive/KeyDisplay](https://github.com/Variable-Interactive/KeyDisplay)
+4. 💪 Opened PR [#24](undefined) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
+5. 🚀 Published release [v1.6](https://github.com/Variable-Interactive/ExtensionCreator/releases/tag/v1.6) in [Variable-Interactive/ExtensionCreator](https://github.com/Variable-Interactive/ExtensionCreator)
 <!--END_SECTION:activity-->
 
 <!--
