@@ -10,11 +10,11 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.16](https://github.com/Variable-Interactive/Skeletor/releases/tag/v0.16) in [Variable-Interactive/Skeletor](https://github.com/Variable-Interactive/Skeletor)
-2. 💪 Opened PR [#1375](undefined) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-3. 💪 Opened PR [#26](undefined) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
-4. 🚀 Published release [v0.15](https://github.com/Variable-Interactive/Skeletor/releases/tag/v0.15) in [Variable-Interactive/Skeletor](https://github.com/Variable-Interactive/Skeletor)
-5. 🚀 Published release [v0.14](https://github.com/Variable-Interactive/Skeletor/releases/tag/v0.14) in [Variable-Interactive/Skeletor](https://github.com/Variable-Interactive/Skeletor)
+1. 💪 Opened PR [#27](undefined) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
+2. 🚀 Published release [v0.16](https://github.com/Variable-Interactive/Skeletor/releases/tag/v0.16) in [Variable-Interactive/Skeletor](https://github.com/Variable-Interactive/Skeletor)
+3. 💪 Opened PR [#1375](undefined) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+4. 💪 Opened PR [#26](undefined) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
+5. 🚀 Published release [v0.15](https://github.com/Variable-Interactive/Skeletor/releases/tag/v0.15) in [Variable-Interactive/Skeletor](https://github.com/Variable-Interactive/Skeletor)
 <!--END_SECTION:activity-->
 
 <!--
