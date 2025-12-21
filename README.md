@@ -10,11 +10,11 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#3](undefined) in [Orama-Interactive/TeledrawingPixelorama](https://github.com/Orama-Interactive/TeledrawingPixelorama)
-2. ❌ Merged PR [#1396](undefined) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-3. ❌ Merged PR [#1393](undefined) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-4. ❌ Merged PR [#125](undefined) in [Orama-Interactive/Pixelorama-Docs](https://github.com/Orama-Interactive/Pixelorama-Docs)
-5. ❌ Merged PR [#1397](undefined) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+1. 💪 Opened PR [#1407](undefined) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. ❌ Merged PR [#3](undefined) in [Orama-Interactive/TeledrawingPixelorama](https://github.com/Orama-Interactive/TeledrawingPixelorama)
+3. ❌ Merged PR [#1396](undefined) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+4. ❌ Merged PR [#1393](undefined) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+5. ❌ Merged PR [#125](undefined) in [Orama-Interactive/Pixelorama-Docs](https://github.com/Orama-Interactive/Pixelorama-Docs)
 <!--END_SECTION:activity-->
 
 <!--
