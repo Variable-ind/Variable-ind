@@ -13,8 +13,8 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 1. 🗣 Commented on [#1409](https://github.com/Orama-Interactive/Pixelorama/issues/1409#issuecomment-3691393765) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 2. 🗣 Commented on [#1409](https://github.com/Orama-Interactive/Pixelorama/issues/1409#issuecomment-3691313101) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 3. 🗣 Commented on [#1409](https://github.com/Orama-Interactive/Pixelorama/issues/1409#issuecomment-3691284165) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-4. 💪 Opened PR [#1407](undefined) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-5. ❌ Merged PR [#3](undefined) in [Orama-Interactive/TeledrawingPixelorama](https://github.com/Orama-Interactive/TeledrawingPixelorama)
+4. 💪 Opened PR [#1407](https://github.com/Orama-Interactive/Pixelorama/pull/1407) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+5. 🎉 Merged PR [#3](https://github.com/Orama-Interactive/TeledrawingPixelorama/pull/3) in [Orama-Interactive/TeledrawingPixelorama](https://github.com/Orama-Interactive/TeledrawingPixelorama)
 <!--END_SECTION:activity-->
 
 <!--
