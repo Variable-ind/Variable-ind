@@ -10,11 +10,11 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Variable-Interactive/PixeloramaDiscordRPC/pull/1#issuecomment-3759215266) in [Variable-Interactive/PixeloramaDiscordRPC](https://github.com/Variable-Interactive/PixeloramaDiscordRPC)
-2. 🎉 Merged PR [#1427](https://github.com/Orama-Interactive/Pixelorama/pull/1427) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-3. 💪 Opened PR [#9](https://github.com/Variable-ind/Pixelorama/pull/9) in [Variable-ind/Pixelorama](https://github.com/Variable-ind/Pixelorama)
-4. 💪 Opened PR [#1427](https://github.com/Orama-Interactive/Pixelorama/pull/1427) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-5. 🎉 Merged PR [#1426](https://github.com/Orama-Interactive/Pixelorama/pull/1426) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+1. 💪 Opened PR [#30](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/30) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
+2. 🚀 Published release [v0.2](https://github.com/Variable-Interactive/PixeloramaDiscordRPC/releases/tag/v0.2) in [Variable-Interactive/PixeloramaDiscordRPC](https://github.com/Variable-Interactive/PixeloramaDiscordRPC)
+3. 🗣 Commented on [#1](https://github.com/Variable-Interactive/PixeloramaDiscordRPC/pull/1#issuecomment-3759215266) in [Variable-Interactive/PixeloramaDiscordRPC](https://github.com/Variable-Interactive/PixeloramaDiscordRPC)
+4. 🎉 Merged PR [#1427](https://github.com/Orama-Interactive/Pixelorama/pull/1427) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+5. 💪 Opened PR [#9](https://github.com/Variable-ind/Pixelorama/pull/9) in [Variable-ind/Pixelorama](https://github.com/Variable-ind/Pixelorama)
 <!--END_SECTION:activity-->
 
 <!--
