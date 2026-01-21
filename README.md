@@ -10,11 +10,11 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/Mathics3/mathics-django/pull/27#issuecomment-3776149875) in [Mathics3/mathics-django](https://github.com/Mathics3/mathics-django)
-2. 🎉 Merged PR [#30](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/30) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
-3. 💪 Opened PR [#30](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/30) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
-4. 🚀 Published release [v0.2](https://github.com/Variable-Interactive/PixeloramaDiscordRPC/releases/tag/v0.2) in [Variable-Interactive/PixeloramaDiscordRPC](https://github.com/Variable-Interactive/PixeloramaDiscordRPC)
-5. 🗣 Commented on [#1](https://github.com/Variable-Interactive/PixeloramaDiscordRPC/pull/1#issuecomment-3759215266) in [Variable-Interactive/PixeloramaDiscordRPC](https://github.com/Variable-Interactive/PixeloramaDiscordRPC)
+1. 💪 Opened PR [#1430](https://github.com/Orama-Interactive/Pixelorama/pull/1430) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. 🗣 Commented on [#27](https://github.com/Mathics3/mathics-django/pull/27#issuecomment-3776149875) in [Mathics3/mathics-django](https://github.com/Mathics3/mathics-django)
+3. 🎉 Merged PR [#30](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/30) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
+4. 💪 Opened PR [#30](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/30) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
+5. 🚀 Published release [v0.2](https://github.com/Variable-Interactive/PixeloramaDiscordRPC/releases/tag/v0.2) in [Variable-Interactive/PixeloramaDiscordRPC](https://github.com/Variable-Interactive/PixeloramaDiscordRPC)
 <!--END_SECTION:activity-->
 
 <!--
