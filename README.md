@@ -10,11 +10,11 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/Variable-ind/Pixelorama/pull/5) in [Variable-ind/Pixelorama](https://github.com/Variable-ind/Pixelorama)
-2. ❌ Closed PR [#8](https://github.com/Variable-ind/Pixelorama/pull/8) in [Variable-ind/Pixelorama](https://github.com/Variable-ind/Pixelorama)
-3. ❌ Closed PR [#9](https://github.com/Variable-ind/Pixelorama/pull/9) in [Variable-ind/Pixelorama](https://github.com/Variable-ind/Pixelorama)
-4. 💪 Opened PR [#1432](https://github.com/Orama-Interactive/Pixelorama/pull/1432) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-5. 💪 Opened PR [#1431](https://github.com/Orama-Interactive/Pixelorama/pull/1431) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+1. 🗣 Commented on [#1433](https://github.com/Orama-Interactive/Pixelorama/issues/1433#issuecomment-3810608854) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. 💪 Opened PR [#1434](https://github.com/Orama-Interactive/Pixelorama/pull/1434) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+3. ❌ Closed PR [#5](https://github.com/Variable-ind/Pixelorama/pull/5) in [Variable-ind/Pixelorama](https://github.com/Variable-ind/Pixelorama)
+4. ❌ Closed PR [#8](https://github.com/Variable-ind/Pixelorama/pull/8) in [Variable-ind/Pixelorama](https://github.com/Variable-ind/Pixelorama)
+5. ❌ Closed PR [#9](https://github.com/Variable-ind/Pixelorama/pull/9) in [Variable-ind/Pixelorama](https://github.com/Variable-ind/Pixelorama)
 <!--END_SECTION:activity-->
 
 <!--
