@@ -10,11 +10,11 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1473](https://github.com/Orama-Interactive/Pixelorama/pull/1473#issuecomment-4148687560) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-2. 🗣 Commented on [#1472](https://github.com/Orama-Interactive/Pixelorama/pull/1472#issuecomment-4148677382) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-3. 🗣 Commented on [#1472](https://github.com/Orama-Interactive/Pixelorama/pull/1472#issuecomment-4148670632) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-4. 🗣 Commented on [#1474](https://github.com/Orama-Interactive/Pixelorama/pull/1474#issuecomment-4148649745) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-5. 🎉 Merged PR [#1473](https://github.com/Orama-Interactive/Pixelorama/pull/1473) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+1. 🗣 Commented on [#1278](https://github.com/Orama-Interactive/Pixelorama/issues/1278#issuecomment-4148742295) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. 🗣 Commented on [#1278](https://github.com/Orama-Interactive/Pixelorama/issues/1278#issuecomment-4148701224) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+3. 🗣 Commented on [#1473](https://github.com/Orama-Interactive/Pixelorama/pull/1473#issuecomment-4148687560) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+4. 🗣 Commented on [#1472](https://github.com/Orama-Interactive/Pixelorama/pull/1472#issuecomment-4148677382) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+5. 🗣 Commented on [#1472](https://github.com/Orama-Interactive/Pixelorama/pull/1472#issuecomment-4148670632) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 <!--END_SECTION:activity-->
 
 <!--
