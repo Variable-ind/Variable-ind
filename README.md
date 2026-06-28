@@ -10,11 +10,11 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1538](https://github.com/Orama-Interactive/Pixelorama/pull/1538) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-2. 🎉 Merged PR [#37](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/37) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
-3. 💪 Opened PR [#37](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/37) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
-4. 🚀 Published release [v0.2](https://github.com/Variable-Interactive/Pixelorama-Ceramic/releases/tag/v0.2) in [Variable-Interactive/Pixelorama-Ceramic](https://github.com/Variable-Interactive/Pixelorama-Ceramic)
-5. 🎉 Merged PR [#36](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/36) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
+1. 🎉 Merged PR [#1538](https://github.com/Orama-Interactive/Pixelorama/pull/1538) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. 💪 Opened PR [#1538](https://github.com/Orama-Interactive/Pixelorama/pull/1538) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+3. 🎉 Merged PR [#37](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/37) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
+4. 💪 Opened PR [#37](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/37) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
+5. 🚀 Published release [v0.2](https://github.com/Variable-Interactive/Pixelorama-Ceramic/releases/tag/v0.2) in [Variable-Interactive/Pixelorama-Ceramic](https://github.com/Variable-Interactive/Pixelorama-Ceramic)
 <!--END_SECTION:activity-->
 
 <!--
