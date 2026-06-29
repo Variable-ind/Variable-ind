@@ -10,11 +10,11 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1539](https://github.com/Orama-Interactive/Pixelorama/pull/1539) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-2. 🎉 Merged PR [#1535](https://github.com/Orama-Interactive/Pixelorama/pull/1535) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-3. 🎉 Merged PR [#1538](https://github.com/Orama-Interactive/Pixelorama/pull/1538) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-4. 💪 Opened PR [#1538](https://github.com/Orama-Interactive/Pixelorama/pull/1538) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-5. 🎉 Merged PR [#37](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/37) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
+1. 🎉 Merged PR [#38](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/38) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
+2. 💪 Opened PR [#38](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/38) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
+3. 🚀 Published release [v0.3](https://github.com/Variable-Interactive/Pixelorama-Ceramic/releases/tag/v0.3) in [Variable-Interactive/Pixelorama-Ceramic](https://github.com/Variable-Interactive/Pixelorama-Ceramic)
+4. 🎉 Merged PR [#1539](https://github.com/Orama-Interactive/Pixelorama/pull/1539) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+5. 💪 Opened PR [#1539](https://github.com/Orama-Interactive/Pixelorama/pull/1539) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 <!--END_SECTION:activity-->
 
 <!--
