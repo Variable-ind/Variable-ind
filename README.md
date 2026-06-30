@@ -1,9 +1,9 @@
 ### Hello there, I'm Fayez, commonly known as Variable! 👋
 I code and make projects for fun and post them on [My Itch.io page](https://variable-industries.itch.io/). Also a contributor to [Pixelorama](https://github.com/Orama-Interactive/Pixelorama).
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Variable-ind&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Variable-ind&show_icons=true&theme=merko)](https://github.com/stats-organization/github-stats-extended)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Variable-ind&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Variable-ind&layout=compact&theme=merko)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
