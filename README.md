@@ -10,11 +10,11 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1590](https://github.com/Orama-Interactive/Pixelorama/pull/1590) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-2. 🗣 Commented on [#1609](https://github.com/Orama-Interactive/Pixelorama/issues/1609#issuecomment-5606836363) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-3. 🎉 Merged PR [#1603](https://github.com/Orama-Interactive/Pixelorama/pull/1603) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-4. 🎉 Merged PR [#39](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/39) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
-5. 💪 Opened PR [#1608](https://github.com/Orama-Interactive/Pixelorama/pull/1608) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+1. 🗣 Commented on [#1610](https://github.com/Orama-Interactive/Pixelorama/issues/1610#issuecomment-5630510810) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+2. 🎉 Merged PR [#1590](https://github.com/Orama-Interactive/Pixelorama/pull/1590) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+3. 🗣 Commented on [#1609](https://github.com/Orama-Interactive/Pixelorama/issues/1609#issuecomment-5606836363) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+4. 🎉 Merged PR [#1603](https://github.com/Orama-Interactive/Pixelorama/pull/1603) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+5. 🎉 Merged PR [#39](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/39) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
 <!--END_SECTION:activity-->
 
 <!--
