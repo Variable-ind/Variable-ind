@@ -10,11 +10,11 @@ I code and make projects for fun and post them on [My Itch.io page](https://vari
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1654](https://github.com/Orama-Interactive/Pixelorama/pull/1654#issuecomment-6638939264) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-2. 💪 Opened PR [#40](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/40) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
-3. 🚀 Published release [v0.19](https://github.com/Variable-Interactive/Skeletor/releases/tag/v0.19) in [Variable-Interactive/Skeletor](https://github.com/Variable-Interactive/Skeletor)
-4. 🗣 Commented on [#1650](https://github.com/Orama-Interactive/Pixelorama/issues/1650#issuecomment-6600356055) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
-5. 🗣 Commented on [#1651](https://github.com/Orama-Interactive/Pixelorama/issues/1651#issuecomment-6572927815) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+1. 🎉 Merged PR [#40](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/40) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
+2. 🗣 Commented on [#1654](https://github.com/Orama-Interactive/Pixelorama/pull/1654#issuecomment-6638939264) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+3. 💪 Opened PR [#40](https://github.com/Orama-Interactive/PixeloramaExtensionRepository/pull/40) in [Orama-Interactive/PixeloramaExtensionRepository](https://github.com/Orama-Interactive/PixeloramaExtensionRepository)
+4. 🚀 Published release [v0.19](https://github.com/Variable-Interactive/Skeletor/releases/tag/v0.19) in [Variable-Interactive/Skeletor](https://github.com/Variable-Interactive/Skeletor)
+5. 🗣 Commented on [#1650](https://github.com/Orama-Interactive/Pixelorama/issues/1650#issuecomment-6600356055) in [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 <!--END_SECTION:activity-->
 
 <!--
